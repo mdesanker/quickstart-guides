@@ -42,3 +42,7 @@ To start the server:
 ```bash
 npm run serverstart
 ```
+
+## To view server in browser
+
+Navigate to [http://localhost:3000/](http://localhost:3000/)
