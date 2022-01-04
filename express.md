@@ -45,4 +45,6 @@ npm run serverstart
 
 ## To view server in browser
 
-Navigate to [http://localhost:3000/](http://localhost:3000/)
+Navigate to [localhost:3000/](http://localhost:3000/)
+
+**Remember to add node_modules folder to .gitignore file**
