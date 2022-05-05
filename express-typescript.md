@@ -35,6 +35,14 @@ npm i dotenv cors compression helmet express-validator
 npm i -D @types/cors @types/compression jest @types/jest ts-jest supertest @types/supertest
 ```
 
+### Mongoose
+
+Install dependencies
+
+```bash
+npm i mongoose mongodb-memory-server
+```
+
 ### TypeScript config file
 
 Create tsconfig.json in root folder
